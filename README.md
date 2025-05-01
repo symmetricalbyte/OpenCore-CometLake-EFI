@@ -1,6 +1,6 @@
 # OpenCore-CometLake-EFI
-Base ready to boot OpenCore EFI files for Intel Comet lake cpus(10XXX)
+Base OpenCore EFI files for Intel Comet lake cpus(10XXX)
 
 -----------------------------------------------------------------
 
-Still under testing phase
+~~Still under testing phase~~ Not even booting
